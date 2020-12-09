@@ -10,4 +10,4 @@ The third is the **DAG Construction** stage whereby a DAG is constructed, where 
 
 The fourth is the **Search** Stage, where the DAG processes point queries. Click to see if the cursor is inside or outside the polygon.
 
-Credit: The Kirkpatrick method itself obviously was not invented by me, I only implemented it here. The Geometric predicates and ear-clipping triangulation algorithm are adapted from those described in Joseph O'Rourke's <u>Computational Geometry in C</u>
+Credit: The Kirkpatrick method itself obviously was not invented by me, I only implemented it here. The Geometric predicates and ear-clipping triangulation algorithm are adapted from those described in Joseph O'Rourke's <u>Computational Geometry in C</u>.
